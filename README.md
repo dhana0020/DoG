@@ -1,1 +1,1 @@
-# DoG
+# DoG  -  Difference of Gaussian
